@@ -1,2 +1,3 @@
 This is my text file 1 added.
 This file is edited.
+This file is edited from global git.
