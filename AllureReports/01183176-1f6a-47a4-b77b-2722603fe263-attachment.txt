@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:31 Testcase test_verify_credkart_url_001 started 
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:32 Opening Brower
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:31 Testcase test_verify_credkart_url_001 started 
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:32 Opening Brower

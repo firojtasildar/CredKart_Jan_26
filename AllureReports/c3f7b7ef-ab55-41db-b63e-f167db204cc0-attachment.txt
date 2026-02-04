@@ -1,0 +1,13 @@
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:31 Testcase test_Credkart_login_002 is started
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:33 Reading Data from Excel
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:35 Number of rows in excel are-->5
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:41 Opening browser and getting url-->https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:57 User Login Successful and taking screenshot
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:41 Opening browser and getting url-->https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:73 User Login failed and taking screenshot
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:41 Opening browser and getting url-->https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:73 User Login failed and taking screenshot
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:41 Opening browser and getting url-->https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:73 User Login failed and taking screenshot
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:92 All Testcases Passed
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:97 Testcase test_credkart_login_excel_ddt_003 completed

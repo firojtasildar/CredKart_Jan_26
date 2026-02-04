@@ -1,0 +1,4 @@
+fake_username--> phillip40
+fake_email--> courtneyjohnson@example.net
+
+Browser Closed
