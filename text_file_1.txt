@@ -1,1 +1,2 @@
 This is my text file 1 added.
+This file is edited.
