@@ -1,4 +1,0 @@
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:27 email_id-->Credencetest@test.com12x
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:28 password_data-->Credence@123
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:29 expected_result-->login_fail
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:32 opening login_url-->https://automation.credence.in/login

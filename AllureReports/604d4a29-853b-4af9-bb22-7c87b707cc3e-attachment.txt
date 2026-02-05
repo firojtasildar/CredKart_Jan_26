@@ -1,8 +1,0 @@
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:27 email_id-->Credencetest@test.com
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:28 password_data-->Credence@123xxx
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:29 expected_result-->login_fail
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:32 opening login_url-->https://automation.credence.in/login
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:39 You're Landed on correct Page and its title is-->CredKart
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:64 User Login failed and taking screenshot
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:82 All Testcases Passed
-[32mINFO    [0m root:test_CredKart_login_through_params_003.py:87 Testcase test_credkart_login_excel_ddt_003 completed

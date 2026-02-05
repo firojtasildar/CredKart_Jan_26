@@ -1,4 +1,0 @@
-Testcase Pass
-result_list-->['Pass']
-
-Browser Closed

@@ -1577,3 +1577,471 @@ x
 2026-02-04 15:51:33,558 -	INFO -	test_credkart_login_excel_ddt_003 - 97 - Testcase test_credkart_login_excel_ddt_003 completed
 2026-02-04 15:51:33,558 -	INFO -	test_credkart_login_excel_ddt_003 - 97 - Testcase test_credkart_login_excel_ddt_003 completed
 2026-02-04 15:51:33,558 -	INFO -	test_credkart_login_excel_ddt_003 - 97 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:30:46,943 -	INFO -	test_credkart_login_excel_ddt_003 - 31 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:30:46,943 -	INFO -	test_credkart_login_excel_ddt_003 - 31 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:30:46,943 -	INFO -	test_credkart_login_excel_ddt_003 - 31 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:30:46,943 -	INFO -	test_credkart_login_excel_ddt_003 - 31 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:30:47,293 -	INFO -	test_credkart_login_excel_ddt_003 - 33 - Reading Data from Excel
+2026-02-05 10:30:47,293 -	INFO -	test_credkart_login_excel_ddt_003 - 33 - Reading Data from Excel
+2026-02-05 10:30:47,293 -	INFO -	test_credkart_login_excel_ddt_003 - 33 - Reading Data from Excel
+2026-02-05 10:30:47,293 -	INFO -	test_credkart_login_excel_ddt_003 - 33 - Reading Data from Excel
+2026-02-05 10:30:48,085 -	INFO -	test_credkart_login_excel_ddt_003 - 35 - Number of rows in excel are-->5
+2026-02-05 10:30:48,085 -	INFO -	test_credkart_login_excel_ddt_003 - 35 - Number of rows in excel are-->5
+2026-02-05 10:30:48,085 -	INFO -	test_credkart_login_excel_ddt_003 - 35 - Number of rows in excel are-->5
+2026-02-05 10:30:48,085 -	INFO -	test_credkart_login_excel_ddt_003 - 35 - Number of rows in excel are-->5
+2026-02-05 10:30:50,339 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:30:50,339 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:30:50,339 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:30:50,339 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:30:53,199 -	INFO -	test_credkart_login_excel_ddt_003 - 57 - User Login Successful and taking screenshot
+2026-02-05 10:30:53,199 -	INFO -	test_credkart_login_excel_ddt_003 - 57 - User Login Successful and taking screenshot
+2026-02-05 10:30:53,199 -	INFO -	test_credkart_login_excel_ddt_003 - 57 - User Login Successful and taking screenshot
+2026-02-05 10:30:53,199 -	INFO -	test_credkart_login_excel_ddt_003 - 57 - User Login Successful and taking screenshot
+2026-02-05 10:30:56,464 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:30:56,464 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:30:56,464 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:30:56,464 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:31:20,416 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:31:20,416 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:31:20,416 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:31:20,416 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:31:20,826 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:31:20,826 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:31:20,826 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:31:20,826 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:31:41,936 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:31:41,936 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:31:41,936 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:31:41,936 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:31:42,414 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:31:42,414 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:31:42,414 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:31:42,414 -	INFO -	test_credkart_login_excel_ddt_003 - 41 - Opening browser and getting url-->https://automation.credence.in/login
+2026-02-05 10:32:03,198 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:32:03,198 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:32:03,198 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:32:03,198 -	INFO -	test_credkart_login_excel_ddt_003 - 73 - User Login failed and taking screenshot
+2026-02-05 10:32:03,422 -	INFO -	test_credkart_login_excel_ddt_003 - 92 - All Testcases Passed
+2026-02-05 10:32:03,422 -	INFO -	test_credkart_login_excel_ddt_003 - 92 - All Testcases Passed
+2026-02-05 10:32:03,422 -	INFO -	test_credkart_login_excel_ddt_003 - 92 - All Testcases Passed
+2026-02-05 10:32:03,422 -	INFO -	test_credkart_login_excel_ddt_003 - 92 - All Testcases Passed
+2026-02-05 10:32:03,422 -	INFO -	test_credkart_login_excel_ddt_003 - 97 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:03,422 -	INFO -	test_credkart_login_excel_ddt_003 - 97 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:03,422 -	INFO -	test_credkart_login_excel_ddt_003 - 97 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:03,422 -	INFO -	test_credkart_login_excel_ddt_003 - 97 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:08,571 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:32:08,571 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:32:08,571 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:32:08,571 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:32:08,572 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:32:08,572 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:32:08,572 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:32:08,572 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:32:10,204 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:32:10,204 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:32:10,204 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:32:10,204 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:32:10,205 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:32:10,205 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:32:10,205 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:32:10,205 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:32:10,233 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:32:10,233 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:32:10,233 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:32:10,233 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:32:10,233 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:32:10,233 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:32:10,233 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:32:10,233 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:32:11,275 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 10:32:11,275 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 10:32:11,275 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 10:32:11,275 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 10:32:11,278 -	INFO -	test_credkart_login_002 - 76 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:32:11,278 -	INFO -	test_credkart_login_002 - 76 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:32:11,278 -	INFO -	test_credkart_login_002 - 76 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:32:11,278 -	INFO -	test_credkart_login_002 - 76 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:32:11,465 -	INFO -	test_credkart_login_002 - 79 - Opening browser and getting https://automation.credence.in/login
+2026-02-05 10:32:11,465 -	INFO -	test_credkart_login_002 - 79 - Opening browser and getting https://automation.credence.in/login
+2026-02-05 10:32:11,465 -	INFO -	test_credkart_login_002 - 79 - Opening browser and getting https://automation.credence.in/login
+2026-02-05 10:32:11,465 -	INFO -	test_credkart_login_002 - 79 - Opening browser and getting https://automation.credence.in/login
+2026-02-05 10:32:11,470 -	INFO -	test_credkart_login_002 - 85 - Entering the Email Credencetest@test.com
+2026-02-05 10:32:11,470 -	INFO -	test_credkart_login_002 - 85 - Entering the Email Credencetest@test.com
+2026-02-05 10:32:11,470 -	INFO -	test_credkart_login_002 - 85 - Entering the Email Credencetest@test.com
+2026-02-05 10:32:11,470 -	INFO -	test_credkart_login_002 - 85 - Entering the Email Credencetest@test.com
+2026-02-05 10:32:11,636 -	INFO -	test_credkart_login_002 - 89 - Entering the password
+2026-02-05 10:32:11,636 -	INFO -	test_credkart_login_002 - 89 - Entering the password
+2026-02-05 10:32:11,636 -	INFO -	test_credkart_login_002 - 89 - Entering the password
+2026-02-05 10:32:11,636 -	INFO -	test_credkart_login_002 - 89 - Entering the password
+2026-02-05 10:32:11,744 -	INFO -	test_credkart_login_002 - 93 - Clicking on login button
+2026-02-05 10:32:11,744 -	INFO -	test_credkart_login_002 - 93 - Clicking on login button
+2026-02-05 10:32:11,744 -	INFO -	test_credkart_login_002 - 93 - Clicking on login button
+2026-02-05 10:32:11,744 -	INFO -	test_credkart_login_002 - 93 - Clicking on login button
+2026-02-05 10:32:11,923 -	INFO -	test_credkart_login_002 - 96 - Checking the login status
+2026-02-05 10:32:11,923 -	INFO -	test_credkart_login_002 - 96 - Checking the login status
+2026-02-05 10:32:11,923 -	INFO -	test_credkart_login_002 - 96 - Checking the login status
+2026-02-05 10:32:11,923 -	INFO -	test_credkart_login_002 - 96 - Checking the login status
+2026-02-05 10:32:13,014 -	INFO -	test_credkart_login_002 - 98 - User login successful and taking screenshot
+2026-02-05 10:32:13,014 -	INFO -	test_credkart_login_002 - 98 - User login successful and taking screenshot
+2026-02-05 10:32:13,014 -	INFO -	test_credkart_login_002 - 98 - User login successful and taking screenshot
+2026-02-05 10:32:13,014 -	INFO -	test_credkart_login_002 - 98 - User login successful and taking screenshot
+2026-02-05 10:32:13,225 -	INFO -	test_credkart_login_002 - 100 - Clicking on menu button
+2026-02-05 10:32:13,225 -	INFO -	test_credkart_login_002 - 100 - Clicking on menu button
+2026-02-05 10:32:13,225 -	INFO -	test_credkart_login_002 - 100 - Clicking on menu button
+2026-02-05 10:32:13,225 -	INFO -	test_credkart_login_002 - 100 - Clicking on menu button
+2026-02-05 10:32:13,351 -	INFO -	test_credkart_login_002 - 102 - Clicking on logout button
+2026-02-05 10:32:13,351 -	INFO -	test_credkart_login_002 - 102 - Clicking on logout button
+2026-02-05 10:32:13,351 -	INFO -	test_credkart_login_002 - 102 - Clicking on logout button
+2026-02-05 10:32:13,351 -	INFO -	test_credkart_login_002 - 102 - Clicking on logout button
+2026-02-05 10:32:13,855 -	INFO -	test_credkart_login_002 - 108 - Testcase test_Credkart_login_002 is completed
+2026-02-05 10:32:13,855 -	INFO -	test_credkart_login_002 - 108 - Testcase test_Credkart_login_002 is completed
+2026-02-05 10:32:13,855 -	INFO -	test_credkart_login_002 - 108 - Testcase test_Credkart_login_002 is completed
+2026-02-05 10:32:13,855 -	INFO -	test_credkart_login_002 - 108 - Testcase test_Credkart_login_002 is completed
+2026-02-05 10:32:13,862 -	INFO -	test_credkart_registration - 115 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:32:13,862 -	INFO -	test_credkart_registration - 115 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:32:13,862 -	INFO -	test_credkart_registration - 115 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:32:13,862 -	INFO -	test_credkart_registration - 115 - Testcase test_Credkart_login_002 is started
+2026-02-05 10:32:14,374 -	INFO -	test_credkart_registration - 117 - Opening browser and getting https://automation.credence.in/register
+2026-02-05 10:32:14,374 -	INFO -	test_credkart_registration - 117 - Opening browser and getting https://automation.credence.in/register
+2026-02-05 10:32:14,374 -	INFO -	test_credkart_registration - 117 - Opening browser and getting https://automation.credence.in/register
+2026-02-05 10:32:14,374 -	INFO -	test_credkart_registration - 117 - Opening browser and getting https://automation.credence.in/register
+2026-02-05 10:32:14,417 -	INFO -	test_credkart_registration - 122 - Generated fake data for username--> tracywilliams and email --> williamrivera@example.net
+2026-02-05 10:32:14,417 -	INFO -	test_credkart_registration - 122 - Generated fake data for username--> tracywilliams and email --> williamrivera@example.net
+2026-02-05 10:32:14,417 -	INFO -	test_credkart_registration - 122 - Generated fake data for username--> tracywilliams and email --> williamrivera@example.net
+2026-02-05 10:32:14,417 -	INFO -	test_credkart_registration - 122 - Generated fake data for username--> tracywilliams and email --> williamrivera@example.net
+2026-02-05 10:32:14,426 -	INFO -	test_credkart_registration - 129 - Entering the Username--> tracywilliams
+2026-02-05 10:32:14,426 -	INFO -	test_credkart_registration - 129 - Entering the Username--> tracywilliams
+2026-02-05 10:32:14,426 -	INFO -	test_credkart_registration - 129 - Entering the Username--> tracywilliams
+2026-02-05 10:32:14,426 -	INFO -	test_credkart_registration - 129 - Entering the Username--> tracywilliams
+2026-02-05 10:32:14,697 -	INFO -	test_credkart_registration - 133 - Entering the Email--> williamrivera@example.net
+2026-02-05 10:32:14,697 -	INFO -	test_credkart_registration - 133 - Entering the Email--> williamrivera@example.net
+2026-02-05 10:32:14,697 -	INFO -	test_credkart_registration - 133 - Entering the Email--> williamrivera@example.net
+2026-02-05 10:32:14,697 -	INFO -	test_credkart_registration - 133 - Entering the Email--> williamrivera@example.net
+2026-02-05 10:32:14,946 -	INFO -	test_credkart_registration - 137 - Entering the Password
+2026-02-05 10:32:14,946 -	INFO -	test_credkart_registration - 137 - Entering the Password
+2026-02-05 10:32:14,946 -	INFO -	test_credkart_registration - 137 - Entering the Password
+2026-02-05 10:32:14,946 -	INFO -	test_credkart_registration - 137 - Entering the Password
+2026-02-05 10:32:15,195 -	INFO -	test_credkart_registration - 141 - Entering the Confirm Password
+2026-02-05 10:32:15,195 -	INFO -	test_credkart_registration - 141 - Entering the Confirm Password
+2026-02-05 10:32:15,195 -	INFO -	test_credkart_registration - 141 - Entering the Confirm Password
+2026-02-05 10:32:15,195 -	INFO -	test_credkart_registration - 141 - Entering the Confirm Password
+2026-02-05 10:32:15,486 -	INFO -	test_credkart_registration - 145 - Clicking on register button
+2026-02-05 10:32:15,486 -	INFO -	test_credkart_registration - 145 - Clicking on register button
+2026-02-05 10:32:15,486 -	INFO -	test_credkart_registration - 145 - Clicking on register button
+2026-02-05 10:32:15,486 -	INFO -	test_credkart_registration - 145 - Clicking on register button
+2026-02-05 10:32:16,584 -	INFO -	test_credkart_registration - 149 - User registration successful and taking screenshot
+2026-02-05 10:32:16,584 -	INFO -	test_credkart_registration - 149 - User registration successful and taking screenshot
+2026-02-05 10:32:16,584 -	INFO -	test_credkart_registration - 149 - User registration successful and taking screenshot
+2026-02-05 10:32:16,584 -	INFO -	test_credkart_registration - 149 - User registration successful and taking screenshot
+2026-02-05 10:32:16,902 -	INFO -	test_credkart_registration - 151 - Clicking on menu button
+2026-02-05 10:32:16,902 -	INFO -	test_credkart_registration - 151 - Clicking on menu button
+2026-02-05 10:32:16,902 -	INFO -	test_credkart_registration - 151 - Clicking on menu button
+2026-02-05 10:32:16,902 -	INFO -	test_credkart_registration - 151 - Clicking on menu button
+2026-02-05 10:32:17,051 -	INFO -	test_credkart_registration - 153 - Clicking on logout button
+2026-02-05 10:32:17,051 -	INFO -	test_credkart_registration - 153 - Clicking on logout button
+2026-02-05 10:32:17,051 -	INFO -	test_credkart_registration - 153 - Clicking on logout button
+2026-02-05 10:32:17,051 -	INFO -	test_credkart_registration - 153 - Clicking on logout button
+2026-02-05 10:32:21,433 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com
+2026-02-05 10:32:21,433 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com
+2026-02-05 10:32:21,433 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com
+2026-02-05 10:32:21,433 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com
+2026-02-05 10:32:21,433 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123
+2026-02-05 10:32:21,433 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123
+2026-02-05 10:32:21,433 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123
+2026-02-05 10:32:21,433 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123
+2026-02-05 10:32:21,434 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_pass
+2026-02-05 10:32:21,434 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_pass
+2026-02-05 10:32:21,434 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_pass
+2026-02-05 10:32:21,434 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_pass
+2026-02-05 10:32:21,434 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:21,434 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:21,434 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:21,434 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:23,727 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:32:23,727 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:32:23,727 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:32:23,727 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:32:25,330 -	INFO -	test_credkart_login_params_004 - 51 - User Login Successful and Taking Screenshot
+2026-02-05 10:32:25,330 -	INFO -	test_credkart_login_params_004 - 51 - User Login Successful and Taking Screenshot
+2026-02-05 10:32:25,330 -	INFO -	test_credkart_login_params_004 - 51 - User Login Successful and Taking Screenshot
+2026-02-05 10:32:25,330 -	INFO -	test_credkart_login_params_004 - 51 - User Login Successful and Taking Screenshot
+2026-02-05 10:32:26,280 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:32:26,280 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:32:26,280 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:32:26,280 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:32:26,281 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:26,281 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:26,281 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:26,281 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:26,289 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com12x
+2026-02-05 10:32:26,289 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com12x
+2026-02-05 10:32:26,289 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com12x
+2026-02-05 10:32:26,289 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com12x
+2026-02-05 10:32:26,291 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123
+2026-02-05 10:32:26,291 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123
+2026-02-05 10:32:26,291 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123
+2026-02-05 10:32:26,291 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123
+2026-02-05 10:32:26,291 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:32:26,291 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:32:26,291 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:32:26,291 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:32:26,292 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:26,292 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:26,292 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:26,292 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:26,546 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:32:26,546 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:32:26,546 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:32:26,546 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:32:46,945 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:32:46,945 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:32:46,945 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:32:46,945 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:32:47,092 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:32:47,092 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:32:47,092 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:32:47,092 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:32:47,092 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:47,092 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:47,092 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:47,092 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123xxx
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123xxx
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123xxx
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123xxx
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:47,094 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:32:47,293 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:32:47,293 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:32:47,293 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:32:47,293 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:33:07,979 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:33:07,979 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:33:07,979 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:33:07,979 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:33:08,169 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:33:08,169 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:33:08,169 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:33:08,169 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:33:08,169 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:33:08,169 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:33:08,169 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:33:08,169 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:33:08,174 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com12x
+2026-02-05 10:33:08,174 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com12x
+2026-02-05 10:33:08,174 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com12x
+2026-02-05 10:33:08,174 -	INFO -	test_credkart_login_params_004 - 27 - email_id-->Credencetest@test.com12x
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123xxx
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123xxx
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123xxx
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 28 - password_data-->Credence@123xxx
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 29 - expected_result-->login_fail
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:33:08,175 -	INFO -	test_credkart_login_params_004 - 32 - opening login_url-->https://automation.credence.in/login
+2026-02-05 10:33:08,406 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:33:08,406 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:33:08,406 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:33:08,406 -	INFO -	test_credkart_login_params_004 - 39 - You're Landed on correct Page and its title is-->CredKart
+2026-02-05 10:33:28,891 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:33:28,891 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:33:28,891 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:33:28,891 -	INFO -	test_credkart_login_params_004 - 64 - User Login failed and taking screenshot
+2026-02-05 10:33:29,084 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:33:29,084 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:33:29,084 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:33:29,084 -	INFO -	test_credkart_login_params_004 - 82 - All Testcases Passed
+2026-02-05 10:33:29,084 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:33:29,084 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:33:29,084 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:33:29,084 -	INFO -	test_credkart_login_params_004 - 87 - Testcase test_credkart_login_excel_ddt_003 completed
+2026-02-05 10:59:24,035 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:59:24,035 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:59:24,035 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:59:24,035 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:59:24,393 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:59:24,393 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:59:24,393 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:59:24,393 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:59:27,452 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:59:27,452 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:59:27,452 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:59:27,452 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:59:27,452 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:59:27,452 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:59:27,452 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:59:27,452 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:59:27,456 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:59:27,456 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:59:27,456 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:59:27,456 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:59:27,456 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:59:27,456 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:59:27,456 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:59:27,456 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:59:27,892 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 10:59:27,892 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 10:59:27,892 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 10:59:27,892 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 10:59:41,057 -	WARNING -	_process_logs - 137 - Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_144_WINDOWS)
+2026-02-05 10:59:41,057 -	WARNING -	_process_logs - 137 - Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_144_WINDOWS)
+2026-02-05 10:59:41,057 -	WARNING -	_process_logs - 137 - Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_144_WINDOWS)
+2026-02-05 10:59:41,057 -	WARNING -	_process_logs - 137 - Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_144_WINDOWS)
+2026-02-05 10:59:50,854 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:59:50,854 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:59:50,854 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:59:50,854 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 10:59:50,854 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:59:50,854 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:59:50,854 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:59:50,854 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 10:59:51,628 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:59:51,628 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:59:51,628 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:59:51,628 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 10:59:51,629 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:59:51,629 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:59:51,629 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:59:51,629 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 10:59:51,655 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:59:51,655 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:59:51,655 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:59:51,655 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 10:59:51,655 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:59:51,655 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:59:51,655 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:59:51,655 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 10:59:57,857 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 10:59:57,857 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 10:59:57,857 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 10:59:57,857 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:13:44,992 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:13:44,992 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:13:44,992 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:13:44,992 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:13:44,992 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:13:44,992 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:13:44,992 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:13:44,992 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:13:47,717 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:13:47,717 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:13:47,717 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:13:47,717 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:13:47,718 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:13:47,718 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:13:47,718 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:13:47,718 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:13:47,742 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:13:47,742 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:13:47,742 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:13:47,742 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:13:47,742 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:13:47,742 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:13:47,742 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:13:47,742 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:13:49,143 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:13:49,143 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:13:49,143 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:13:49,143 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:13:55,165 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:13:55,165 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:13:55,165 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:13:55,165 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:13:55,166 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:13:55,166 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:13:55,166 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:13:55,166 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:13:57,019 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:13:57,019 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:13:57,019 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:13:57,019 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:13:57,019 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:13:57,019 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:13:57,019 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:13:57,019 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:13:57,038 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:13:57,038 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:13:57,038 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:13:57,038 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:13:57,039 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:13:57,039 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:13:57,039 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:13:57,039 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:13:58,046 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:13:58,046 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:13:58,046 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:13:58,046 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:14:11,117 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:14:11,117 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:14:11,117 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:14:11,117 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:14:11,118 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:14:11,118 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:14:11,118 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:14:11,118 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:14:12,536 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:14:12,536 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:14:12,536 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:14:12,536 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:14:12,536 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:14:12,536 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:14:12,536 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:14:12,536 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:14:12,582 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:14:12,582 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:14:12,582 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:14:12,582 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:14:12,583 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:14:12,583 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:14:12,583 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:14:12,583 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:14:12,773 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:14:12,773 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:14:12,773 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:14:12,773 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:14:29,957 -	WARNING -	_process_logs - 137 - Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_144_WINDOWS)
+2026-02-05 11:14:29,957 -	WARNING -	_process_logs - 137 - Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_144_WINDOWS)
+2026-02-05 11:14:29,957 -	WARNING -	_process_logs - 137 - Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_144_WINDOWS)
+2026-02-05 11:14:29,957 -	WARNING -	_process_logs - 137 - Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_144_WINDOWS)
+2026-02-05 11:14:33,100 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:14:33,100 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:14:33,100 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:14:33,100 -	INFO -	test_verify_credkart_url_001 - 54 - Testcase test_verify_credkart_url_001 started 
+2026-02-05 11:14:33,101 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:14:33,101 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:14:33,101 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:14:33,101 -	INFO -	test_verify_credkart_url_001 - 55 - Opening Brower
+2026-02-05 11:14:33,538 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:14:33,538 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:14:33,538 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:14:33,538 -	INFO -	test_verify_credkart_url_001 - 57 - Opening Browser and getting url->https://automation.credence.in/register
+2026-02-05 11:14:33,538 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:14:33,538 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:14:33,538 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:14:33,538 -	INFO -	test_verify_credkart_url_001 - 58 - Checking Page Title
+2026-02-05 11:14:33,561 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:14:33,561 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:14:33,561 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:14:33,561 -	INFO -	test_verify_credkart_url_001 - 61 - Testcase test_verify_credkart_url_001 passed
+2026-02-05 11:14:33,562 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:14:33,562 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:14:33,562 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:14:33,562 -	INFO -	test_verify_credkart_url_001 - 62 - Taking Screenshot
+2026-02-05 11:14:34,414 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:14:34,414 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:14:34,414 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
+2026-02-05 11:14:34,414 -	INFO -	test_verify_credkart_url_001 - 69 - Testcase test_verify_credkart_url_001 completed
