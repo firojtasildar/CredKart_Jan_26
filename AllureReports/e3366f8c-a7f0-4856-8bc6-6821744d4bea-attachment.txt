@@ -1,0 +1,15 @@
+INFO     root:test_CredKart_User_Profile_001.py:115 Testcase test_Credkart_login_002 is started
+INFO     root:test_CredKart_User_Profile_001.py:117 Opening browser and getting https://automation.credence.in/register
+INFO     root:test_CredKart_User_Profile_001.py:122 Generated fake data for username--> leahburke and email --> wsullivan@example.org
+INFO     root:test_CredKart_User_Profile_001.py:129 Entering the Username--> leahburke
+INFO     root:test_CredKart_User_Profile_001.py:115 Testcase test_Credkart_login_002 is started
+INFO     root:test_CredKart_User_Profile_001.py:117 Opening browser and getting https://automation.credence.in/register
+INFO     root:test_CredKart_User_Profile_001.py:122 Generated fake data for username--> jthomas and email --> gregorymartin@example.net
+INFO     root:test_CredKart_User_Profile_001.py:129 Entering the Username--> jthomas
+INFO     root:test_CredKart_User_Profile_001.py:133 Entering the Email--> gregorymartin@example.net
+INFO     root:test_CredKart_User_Profile_001.py:137 Entering the Password
+INFO     root:test_CredKart_User_Profile_001.py:141 Entering the Confirm Password
+INFO     root:test_CredKart_User_Profile_001.py:145 Clicking on register button
+INFO     root:test_CredKart_User_Profile_001.py:149 User registration successful and taking screenshot
+INFO     root:test_CredKart_User_Profile_001.py:151 Clicking on menu button
+INFO     root:test_CredKart_User_Profile_001.py:153 Clicking on logout button

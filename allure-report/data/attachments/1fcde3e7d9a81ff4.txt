@@ -1,0 +1,4 @@
+INFO     root:test_CredKart_User_Profile_001.py:115 Testcase test_Credkart_login_002 is started
+INFO     root:test_CredKart_User_Profile_001.py:117 Opening browser and getting https://automation.credence.in/register
+INFO     root:test_CredKart_User_Profile_001.py:122 Generated fake data for username--> leahburke and email --> wsullivan@example.org
+INFO     root:test_CredKart_User_Profile_001.py:129 Entering the Username--> leahburke

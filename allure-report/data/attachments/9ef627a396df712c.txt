@@ -1,0 +1,8 @@
+WARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:137 Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_144_WINDOWS)
+INFO     root:test_CredKart_User_Profile_001.py:54 Testcase test_verify_credkart_url_001 started 
+INFO     root:test_CredKart_User_Profile_001.py:55 Opening Brower
+INFO     root:test_CredKart_User_Profile_001.py:57 Opening Browser and getting url->https://automation.credence.in/register
+INFO     root:test_CredKart_User_Profile_001.py:58 Checking Page Title
+INFO     root:test_CredKart_User_Profile_001.py:61 Testcase test_verify_credkart_url_001 passed
+INFO     root:test_CredKart_User_Profile_001.py:62 Taking Screenshot
+INFO     root:test_CredKart_User_Profile_001.py:69 Testcase test_verify_credkart_url_001 completed

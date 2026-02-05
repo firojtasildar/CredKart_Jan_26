@@ -1,0 +1,8 @@
+INFO     root:test_CredKart_login_through_params_003.py:27 email_id-->Credencetest@test.com
+INFO     root:test_CredKart_login_through_params_003.py:28 password_data-->Credence@123
+INFO     root:test_CredKart_login_through_params_003.py:29 expected_result-->login_pass
+INFO     root:test_CredKart_login_through_params_003.py:32 opening login_url-->https://automation.credence.in/login
+INFO     root:test_CredKart_login_through_params_003.py:39 You're Landed on correct Page and its title is-->CredKart
+INFO     root:test_CredKart_login_through_params_003.py:51 User Login Successful and Taking Screenshot
+INFO     root:test_CredKart_login_through_params_003.py:82 All Testcases Passed
+INFO     root:test_CredKart_login_through_params_003.py:87 Testcase test_credkart_login_excel_ddt_003 completed

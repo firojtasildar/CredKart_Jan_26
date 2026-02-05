@@ -1,0 +1,5 @@
+
+Opening firefox browser
+result_list-->['Pass', 'Pass', 'Pass', 'Pass']
+
+Browser Closed

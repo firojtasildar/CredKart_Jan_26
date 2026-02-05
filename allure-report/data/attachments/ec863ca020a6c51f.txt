@@ -1,0 +1,14 @@
+WARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:137 Exception managing MicrosoftEdge: error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_144_WINDOWS)
+INFO     root:test_CredKart_Login_Excel_002.py:31 Testcase test_Credkart_login_002 is started
+INFO     root:test_CredKart_Login_Excel_002.py:33 Reading Data from Excel
+INFO     root:test_CredKart_Login_Excel_002.py:35 Number of rows in excel are-->5
+INFO     root:test_CredKart_Login_Excel_002.py:41 Opening browser and getting url-->https://automation.credence.in/login
+INFO     root:test_CredKart_Login_Excel_002.py:57 User Login Successful and taking screenshot
+INFO     root:test_CredKart_Login_Excel_002.py:41 Opening browser and getting url-->https://automation.credence.in/login
+INFO     root:test_CredKart_Login_Excel_002.py:73 User Login failed and taking screenshot
+INFO     root:test_CredKart_Login_Excel_002.py:41 Opening browser and getting url-->https://automation.credence.in/login
+INFO     root:test_CredKart_Login_Excel_002.py:73 User Login failed and taking screenshot
+INFO     root:test_CredKart_Login_Excel_002.py:41 Opening browser and getting url-->https://automation.credence.in/login
+INFO     root:test_CredKart_Login_Excel_002.py:73 User Login failed and taking screenshot
+INFO     root:test_CredKart_Login_Excel_002.py:92 All Testcases Passed
+INFO     root:test_CredKart_Login_Excel_002.py:97 Testcase test_credkart_login_excel_ddt_003 completed

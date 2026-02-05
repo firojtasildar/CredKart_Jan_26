@@ -1,0 +1,4 @@
+\Opening Chrome Browser
+result_list-->['Pass', 'Pass', 'Pass', 'Pass']
+
+Browser Closed
